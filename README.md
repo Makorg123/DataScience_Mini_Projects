@@ -30,4 +30,5 @@ Mohammed Anas Khan [LinkedIn](https://www.linkedin.com/in/mohammed-anas-khan-ab9
 |                | Project6_San Fransisco_Air_Traffic_Passenger |[Link to Project](https://github.com/Makorg123/Project6_Air_Traffic_Passengers_Time_Series/tree/main)|
 | Natural Language Processing | Project7_NLP_Tweet_Mining | [Link to Project](https://github.com/Makorg123/Project7_NLP_Tweet_Mining) |
 |                | Project8_IMDB_Movies_Reviews_Clustering | [Link to Project](https://github.com/Makorg123/Project8_IMDB_Movies_Reviews_Clustering) |
-|                | Project9_Medicare_with_NLP           | [Link to Project](https://github.com/Makorg123/Project9_Medicare_with_NLP)
+|                | Project9_Medicare_with_NLP           | [Link to Project](https://github.com/Makorg123/Project9_Medicare_with_NLP) |
+| Deep Learning  | Project10_MNIST_Digit_Classification | [Link to Project] ()|
