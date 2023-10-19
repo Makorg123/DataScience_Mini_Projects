@@ -20,6 +20,7 @@ Your presence here is valued, and I'm excited to have you on this journey. Pleas
 Warm regards,
 Mohammed Anas Khan [LinkedIn](https://www.linkedin.com/in/mohammed-anas-khan-ab91531a4/) [Kaggle](https://www.kaggle.com/fiq423ubf)
 
+
 | Category | Project Name | Link |
 |-------|--|-------|
 | Regression     | Project1_MPG_Prediction             | [Link to Project](https://github.com/Makorg123/Project1_MPG_Prediction) |
@@ -34,3 +35,5 @@ Mohammed Anas Khan [LinkedIn](https://www.linkedin.com/in/mohammed-anas-khan-ab9
 |                | Project9_Medicare_with_NLP           | [Link to Project](https://github.com/Makorg123/Project9_Medicare_with_NLP) |
 | Deep Learning  | Project10_MNIST_Digit_Classification | [Link to Project](https://github.com/Makorg123/Project10_MNIST_Digit_Classification)|
 |                | Project11_Dog_Vs_Cat_Classification  | [Link to Project](https://github.com/Makorg123/Project11_Dog_Vs_Cat_Classification)|
+
+
