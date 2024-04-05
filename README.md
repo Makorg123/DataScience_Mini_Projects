@@ -27,12 +27,13 @@ Mohammed Anas Khan [LinkedIn](https://www.linkedin.com/in/mohammed-anas-khan-ab9
 |                | Project2_House_Price_Prediction     | [Link to Project](https://github.com/Makorg123/Project2_House_Price_Prediction) |
 | Classification | Project3_Loan_Prediction_Classifier | [Link to Project](https://github.com/Makorg123/Project3_Loan_Prediction_Classifier) |
 |                | Project4_Financial_Classification   | [Link to Project](https://github.com/Makorg123/Project4_Financial_Classification) |
-|                | Vehicle Coupon Recommendation       | [Link to Project](https://github.com/Makorg123/In_Vehicle_Coupon_Recommendation)
+|                | Vehicle Coupon Recommendation       | [Link to Project](https://github.com/Makorg123/In_Vehicle_Coupon_Recommendation) |
 | Time Series Analysis | Project5_Chicago_Taxi_Trip   | [Link to Project](https://github.com/Makorg123/Project5_Chicago_Taxi_Trips_Time_Series) |
 |                | Project6_San Fransisco_Air_Traffic_Passenger |[Link to Project](https://github.com/Makorg123/Project6_Air_Traffic_Passengers_Time_Series/tree/main)|
 | Natural Language Processing | Project7_NLP_Tweet_Mining | [Link to Project](https://github.com/Makorg123/Project7_NLP_Tweet_Mining) |
 |                | Project8_IMDB_Movies_Reviews_Clustering | [Link to Project](https://github.com/Makorg123/Project8_IMDB_Movies_Reviews_Clustering)|
 |                | Project9_Medicare_with_NLP           | [Link to Project](https://github.com/Makorg123/Project9_Medicare_with_NLP) |
+|                | Project_Hate_Speech_Classification   | [Link to Project](https://github.com/Makorg123/project_hate_speech_classification_using_deepLearning) |
 | Deep Learning  | Project10_MNIST_Digit_Classification | [Link to Project](https://github.com/Makorg123/Project10_MNIST_Digit_Classification)|
 |                | Project11_Dog_Vs_Cat_Classification  | [Link to Project](https://github.com/Makorg123/Project11_Dog_Vs_Cat_Classification)|
 
