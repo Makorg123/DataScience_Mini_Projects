@@ -1,5 +1,5 @@
 # Welcome to My Project Portfolio
-Greetings and a warm welcome to my project repository! 🌟
+Greetings and a warm welcome to my project repository!
 
 This repository serves as a curated showcase of my work, encompassing a diverse range of projects that represent my dedication to innovation, problem-solving, and continuous learning.
 
