@@ -36,6 +36,6 @@ Mohammed Anas Khan [LinkedIn](https://www.linkedin.com/in/mohammed-anas-khan-ab9
 |                | Project_Hate_Speech_Classification   | [Link to Project](https://github.com/Makorg123/project_hate_speech_classification_using_deepLearning) |
 | Deep Learning  | Project10_MNIST_Digit_Classification | [Link to Project](https://github.com/Makorg123/Project10_MNIST_Digit_Classification)|
 |                | Project11_Dog_Vs_Cat_Classification  | [Link to Project](https://github.com/Makorg123/Project11_Dog_Vs_Cat_Classification)|
-| | Project12_
+| | Project12_ |
 
 
